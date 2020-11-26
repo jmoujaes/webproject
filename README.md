@@ -111,7 +111,7 @@ For Microsoft IIS please use the `webproject/web-config-template` and the `webpr
 
 4. Collect static files by running `python manage.py collectstatic`
 
-5. Edit `nginx_waitress/webproeject_nginx.conf`
+5. Edit `nginx_waitress/webproject_nginx.conf`
 
     - Edit the `server_name`
 
